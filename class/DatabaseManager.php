@@ -2,10 +2,10 @@
 class DatabaseManager
 {
 
-    private const DB_NAME = "test";
-    private const HOST = "mysql:3306";
-    private const USER = "root";
-    private const PWD = "root";
+    private const DB_NAME = "su1dcdd2b8ho945t";
+    private const HOST = "u615qyjzybll9lrm.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306";
+    private const USER = "mifedtez0sou0ucl";
+    private const PWD = "qyvvu9tg7iz8v4j2";
 
     private static $instance = null;
     private $database;
